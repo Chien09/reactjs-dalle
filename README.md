@@ -7,6 +7,7 @@ This project uses Vite (https://vitejs.dev) development tool, along with
 React, Javascript, HTML, and CSS. 
 
 -----------------Setup project-----------------
+
 (In Command Line/Terminal)
 $ npm create vite@latest
 $ npm install     OR      npm i     //to install dependencies 

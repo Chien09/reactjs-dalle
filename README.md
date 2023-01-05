@@ -23,4 +23,4 @@ Create .env folder for storing OpenAI api key
 
 Reference: https://www.youtube.com/watch?v=8iXB4APnfBo
 
-NOTE: OpenAI lets only a limited number of free generating image requests, if used up need to pay. 
+NOTE: OpenAI lets only a limited number of free generating image requests, if used up need to pay. Make sure to check .env file for Openapi Key.

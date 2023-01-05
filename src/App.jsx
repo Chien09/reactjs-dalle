@@ -30,8 +30,11 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Generate an Image using Open AI API</h2>
+      <h2>Generate Image using Open AI DALLE</h2>
       <textarea 
+        rows="5"
+        cols="30"
+        font-size="30px"
         placeholder='Search dogs running in the sky' 
         onChange={(e) => setPrompt(e.target.value)}
       />
